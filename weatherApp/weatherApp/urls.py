@@ -22,6 +22,6 @@ from meteo import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("", include("meteo.urls")),
-    path("http://meutempo.up.railway.app/", include("meteo.urls"))
+
 
 ]
