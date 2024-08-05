@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16b3514-b943-4969-bd90-cb38e0bdf13b" name="Changes" comment="" />
+    <list default="true" id="f16b3514-b943-4969-bd90-cb38e0bdf13b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meteo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/meteo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weatherApp/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +174,7 @@
       <workItem from="1722474855303" duration="2301000" />
       <workItem from="1722520859972" duration="29234000" />
       <workItem from="1722698716343" duration="13127000" />
-      <workItem from="1722818881594" duration="2136000" />
+      <workItem from="1722818881594" duration="3401000" />
     </task>
     <servers />
   </component>
