@@ -3,6 +3,7 @@ from datetime import datetime
 import geocoder
 import requests
 from django.http import HttpResponse
+from django.shortcuts import render
 from django.template import loader
 
 from meteo.models import Worldcities
@@ -40,4 +41,5 @@ def get_temp(location):
     return temp
 
 
-
+def home(request):
+    return render(request, 'index.html')
